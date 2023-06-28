@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DIDmultiplegt"]
 	path = DIDmultiplegt
 	url = https://github.com/cran/DIDmultiplegt
-	shallow = true
-	registered = true
 [submodule "TwoWayFEWeights"]
 	path = TwoWayFEWeights
 	url = https://github.com/shuo-zhang-ucsb/twowayfeweights
-	shallow = true
-	registered = true
